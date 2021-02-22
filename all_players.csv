@@ -1,0 +1,296 @@
+,id,player_name,country,base_price,type,final_price,team_id
+0,1,aaron finch,Australia,100,batsman,0,0
+1,2,alex hales,England,150,batsman,0,0
+2,3,evin lewis,West Indies,100,batsman,0,0
+3,4,karun nair,India,50,batsman,50,4
+4,5,jason roy,England,200,batsman,0,0
+5,6,steve smith,Australia,200,batsman,220,2
+6,7,hanuma vihari,India,100,batsman,0,0
+7,8,shakib al hasan,Bangladesh,200,all,320,4
+8,9,moeen ali,England,200,all,700,1
+9,10,shivam dube,India,50,all,440,6
+10,11,kedar jadhav,India,200,all,200,8
+11,12,dawid malan,England,150,all,150,3
+12,13,glenn maxwell,Australia,200,all,1425,7
+13,14,chris morris,South Africa,75,all,1625,6
+14,15,sam billings,England,200,wkt,200,2
+15,16,alex carey,Australia,150,wkt,0,0
+16,17,kusal perera,Sri Lanka,50,wkt,0,0
+17,18,glenn phillips,New Zealand,50,wkt,0,0
+18,19,sheldon cottrell,West Indies,100,bowler,0,0
+19,20,nathan coulter nile,Australia,150,bowler,500,5
+20,21,adam milne,New Zealand,50,bowler,320,5
+21,22,mustafizur rahman,Bangladesh,100,bowler,100,6
+22,23,jhye richardson,Australia,150,bowler,1400,3
+23,24,mark wood,England,200,bowler,,
+24,25,umesh yadav,India,100,bowler,100,2
+25,26,qais ahmad,Afghanistan,50,bowler,0,0
+26,27,piyush chawla,India,50,bowler,240,5
+27,28,mujeeb ur rahman,Afghanistan,150,bowler,150,8
+28,29,adil rashid,England,150,bowler,0,0
+29,30,rahul sharma,India,50,bowler,0,0
+30,31,harbhajan singh,India,200,bowler,200,4
+31,32,ish sodhi,New Zealand,50,bowler,0,0
+32,33,sachin baby,India,20,batsman,20,7
+33,34,rahul gahlaut,India,20,batsman,0,0
+34,35,c hari nishaanth,India,20,batsman,20,1
+35,36,rajat patidar,India,20,batsman,20,7
+36,37,himanshu rana,India,20,batsman,0,0
+37,38,himmat singh,India,20,batsman,0,0
+38,39,vishnu solanki,India,20,batsman,0,0
+39,40,ayush badoni,India,20,all,0,0
+40,41,k gowtham,India,20,all,925,1
+41,42,venkatesh iyer,India,20,all,20,4
+42,43,shahrukh khan,India,20,all,525,3
+43,44,ripal patel,India,20,all,20,2
+44,45,atit sheth,India,20,all,0,0
+45,46,vivek singh,India,20,all,0,0
+46,47,mohammed azharuddeen,India,20,wkt,20,7
+47,48,avi barot,India,20,wkt,0,0
+48,49,kedar devdhar,India,20,wkt,0,0
+49,50,sheldon jackson,India,20,wkt,20,4
+50,51,vishnu vinod,India,20,wkt,20,2
+51,52,tushar deshpande,India,20,bowler,0,0
+52,53,riley meredith,Australia,40,bowler,800,3
+53,54,lukman hussain meriwala,India,20,bowler,20,2
+54,55,ankit singh rajpoot,India,30,bowler,0,0
+55,56,chetan sakariya,India,20,bowler,120,6
+56,57,kuldeep sen,India,20,bowler,0,0
+57,58,mujtaba yousuf,India,20,bowler,0,0
+58,59,tejas baroka,India,20,bowler,0,0
+59,60,k c cariappa,India,20,bowler,20,6
+60,61,sandeep lamichhane,Nepal,40,bowler,0,0
+61,62,m siddharth,India,20,bowler,20,2
+62,63,karanveer singh,India,20,bowler,0,0
+63,64,jagadeesha suchith,India,20,bowler,30,8
+64,65,midhun sudhesan,India,20,bowler,0,0
+65,66,corey anderson,New Zealand,75,batsman,0,0
+66,67,darren bravo,West Indies,75,batsman,0,0
+67,68,devon conway,New Zealand,50,batsman,0,0
+68,69,martin guptill,New Zealand,50,batsman,0,0
+69,70,shaun marsh,Australia,150,batsman,0,0
+70,71,rovman powell,West Indies,50,batsman,0,0
+71,72,cheteshwar pujara,India,50,batsman,50,1
+72,73,rassie van der dussen,South Africa,50,batsman,0,0
+73,74,tom curran,England,150,all,525,2
+74,75,ben cutting,Australia,75,all,75,4
+75,76,moises henriques,Australia,100,all,420,3
+76,77,kyle jamieson,New Zealand,75,all,1500,7
+77,78,marnus labuschagne,Australia,100,all,0,0
+78,79,pawan negi,India,50,all,50,4
+79,80,gurkeerat singh,India,50,all,0,0
+80,81,varun aaron,India,50,bowler,0,0
+81,82,jason behrendorff,Australia,100,bowler,0,0
+82,83,mitchell mcclenaghan,New Zealand,50,bowler,0,0
+83,84,naveen ul haq,Afghanistan,50,bowler,0,0
+84,85,mohit sharma,India,50,bowler,0,0
+85,86,billy stanlake,Australia,100,bowler,0,0
+86,87,oshane thomas,West Indies,50,bowler,0,0
+87,88,finn allen,New Zealand,20,batsman,,
+88,89,harpreet bhatia,India,20,batsman,,
+89,90,shivam chauhan,India,20,batsman,,
+90,91,naushad shaikh,India,20,batsman,,
+91,92,pratham singh,India,20,batsman,,
+92,93,apoorv wankhade,India,20,batsman,,
+93,94,atharva ankolekar,India,20,all,,
+94,95,prayas barman,India,20,all,,
+95,96,rojith ganesh,India,20,all,,
+96,97,sumit kumar,India,20,all,,
+97,98,akshdeep nath,India,20,all,,
+98,99,pradeep sangwan,India,20,all,,
+99,100,jalaj saxena,India,30,all,30,3
+100,101,karan sharma,India,20,all,,
+101,102,utkarsh singh,India,20,all,20,3
+102,103,r sonu yadav,India,20,all,,
+103,104,dhruv jurel,India,20,wkt,,
+104,105,arun karthick,India,20,wkt,,
+105,106,nikhil naik,India,20,wkt,,
+106,107,smit patel,India,20,wkt,,
+107,108,k l shrijith,India,20,wkt,0,0
+108,109,wesley agar,Australia,20,bowler,,
+109,110,vaibhav arora,India,20,bowler,20,4
+110,111,akash deep,India,20,bowler,,
+111,112,ben dwarshuis,Australia,30,bowler,0,0
+112,113,ali khan,USA,40,bowler,,
+113,114,kulwant khejroliya,India,20,bowler,,
+114,115,arzan nagwaswalla,India,20,bowler,,
+115,116,g periyasamy,India,20,bowler,0,0
+116,117,akash singh,India,20,bowler,20,6
+117,118,prithviraj yarra,India,20,bowler,,
+118,119,noor ahmad lakanwal,Afghanistan,20,bowler,,
+119,120,karthik meiyappan,UAE,20,bowler,,
+120,121,prince balwant rai,India,20,bowler,,
+121,122,pardeep sahu,India,20,bowler,,
+122,123,sagar udeshi,India,20,bowler,,
+123,124,kushaal wadhwani,India,20,bowler,,
+124,125,akshay wakhare,India,20,bowler,,
+125,126,fabian allen,West Indies,75,all,75,3
+126,127,daniel christian,Australia,75,all,480,7
+127,128,colin de grandhomme,New Zealand,50,all,,
+128,129,liam livingstone,England,75,all,75,6
+129,130,thisara perera,Sri Lanka,50,all,0,0
+130,131,mohammad shaifuddin,Bangladesh,50,all,,
+131,132,david willey,England,150,all,,
+132,133,ben duckett,England,50,wkt,,
+133,134,rahmanullah gurbaz,Afghanistan,50,wkt,,
+134,135,ben mcdermott,Australia,50,wkt,0,0
+135,136,matthew wade,Australia,100,wkt,0,0
+136,137,sean abbott,Australia,50,bowler,0,0
+137,138,matt henry,New Zealand,50,bowler,,
+138,139,chemar holder,West Indies,50,bowler,,
+139,140,alzarri joseph,West Indies,50,bowler,,
+140,141,obed mccoy,West Indies,50,bowler,,
+141,142,liam plunkett,England,200,bowler,,
+142,143,tim southee,New Zealand,75,bowler,,
+143,144,rajesh bishnoi,India,20,batsman,,
+144,145,abhimanyu easwaran,India,20,batsman,,
+145,146,rohan kadam,India,20,batsman,,
+146,147,amandeep khare,India,20,batsman,,
+147,148,siddhesh lad,India,20,batsman,0,0
+148,149,mohammed taha,India,20,batsman,,
+149,150,tajinder dhillon,India,20,all,0,0
+150,151,pankaj jaswal,India,20,all,,
+151,152,khrievitso kense,India,20,all,,
+152,153,prerak mankad,India,20,all,0,0
+153,154,shams mulani,India,20,all,,
+154,155,ansh patel,India,20,all,,
+155,156,suyash prabhudessai,India,20,all,20,7
+156,157,parth sahani,India,20,all,,
+157,158,ankit sharma,India,20,all,,
+158,159,dhruv shorey,India,20,all,,
+159,160,k s bharat,India,20,wkt,20,7
+160,161,josh inglis,Australia,20,wkt,0,0
+161,162,aryan juyal,India,20,wkt,,
+162,163,sadiq kirmani,India,20,wkt,,
+163,164,rohit sharma,India,20,wkt,,
+164,165,sandeep kumar tomar,India,20,wkt,,
+165,166,stephen cheepurupalli,India,20,bowler,,
+166,167,aniket choudhary,India,20,bowler,,
+167,168,mukesh choudhary,India,20,bowler,,
+168,169,nathan ellis,Australia,20,bowler,,
+169,170,sayan ghosh,India,20,bowler,,
+170,171,ronit more,India,20,bowler,,
+171,172,m nidheesh,India,20,bowler,,
+172,173,m harisankar reddy,India,20,bowler,20,1
+173,174,simarjeet singh,India,20,bowler,0,0
+174,175,kuldip yadav,India,20,bowler,20,6
+175,176,zeeshan ansari,India,20,bowler,,
+176,177,nayan doshi,England,20,bowler,,
+177,178,jon russ jaggesar,West Indies,20,bowler,,
+178,179,kevin koththigoda,Sri Lanka,20,bowler,,
+179,180,tanveer sangha,Australia,20,bowler,,
+180,181,maheesh theekshan,Sri Lanka,20,bowler,,
+181,182,vijayakanth viyaskanth,Sri Lanka,20,bowler,,
+182,183,lewis gregory,England,150,all,,
+183,184,wanindu hasaranga,Sri Lanka,50,all,,
+184,185,karim janat,Afghanistan,50,all,,
+185,186,scott kuggeleijn,New Zealand,50,all,0,0
+186,187,james neesham,New Zealand,50,all,50,5
+187,188,wayne parnell,South Africa,50,all,0,0
+188,189,keemo paul,West Indies,75,all,,
+189,190,dushmanta chameera,Sri Lanka,50,bowler,,
+190,191,fidel edwards,West Indies,75,bowler,,
+191,192,beuran hendricks,South Africa,50,bowler,,
+192,193,abhimanyu mithun,India,50,bowler,,
+193,194,reece topley,England,50,bowler,0,0
+194,195,hardus viljoen,South Africa,50,bowler,,
+195,196,neil wagner,New Zealand,50,bowler,,
+196,197,max bryant,Australia,20,batsman,,
+197,198,arman jaffer,India,20,batsman,,
+198,199,saahil jain,India,20,batsman,,
+199,200,subhranshu senapati,India,20,batsman,,
+200,201,ravi thakur,India,20,batsman,,
+201,202,jake weatherald,Australia,20,batsman,,
+202,203,shubham agrawal,India,20,all,,
+203,204,rajjakuddin ahmed,India,20,all,,
+204,205,baba aparajith,India,20,all,,
+205,206,george garton,England,20,all,,
+206,207,chris green,Australia,30,all,0,0
+207,208,kartik kakade,India,20,all,,
+208,209,shoaib khan,India,20,all,,
+209,210,dhruv patel,India,20,all,,
+210,211,latest kumar patel,India,20,all,,
+211,212,arjun tendulkar,India,20,all,20,5
+212,213,varun choudhary,India,20,bowler,,
+213,214,prathamesh dake,India,20,bowler,,
+214,215,baltej dhanda,India,20,bowler,,
+215,216,brendan doggett,Australia,40,bowler,,
+216,217,saurabh dubey,India,20,bowler,,
+217,218,fazalhaq farooqi,Afghanistan,40,bowler,,
+218,219,matt kelly,Australia,20,bowler,,
+219,220,chama milind,India,20,bowler,,
+220,221,jayden seales,West Indies,20,bowler,,
+221,222,mark steketee,Australia,40,bowler,,
+222,223,tanveer ul haq,India,20,bowler,,
+223,224,carlos brathwaite,West Indies,50,all,,
+224,225,rishi dhawan,India,50,all,,
+225,226,mohammad mahmud ullah,Bangladesh,75,all,,
+226,227,andile phehlukwayo,South Africa,50,all,,
+227,228,sherfane rutherford,West Indies,75,all,,
+228,229,dasun shanaka,Sri Lanka,50,all,,
+229,230,isuru udana,Sri Lanka,50,all,0,0
+230,231,jacob duffy,New Zealand,50,bowler,,
+231,232,daryn dupavillon,South Africa,50,bowler,,
+232,233,shannon gabriel,West Indies,50,bowler,,
+233,234,morne morkel,South Africa,150,bowler,,
+234,235,joel paris,Australia,50,bowler,,
+235,236,blair tickner,New Zealand,50,bowler,,
+236,237,subodh bhati,India,20,all,,
+237,238,jay bista,India,20,all,,
+238,239,aamir gani,India,20,all,,
+239,240,karanveer kaushal,India,20,all,,
+240,241,anustup majumdar,India,20,all,,
+241,242,dikshanshu negi,India,20,all,,
+242,243,kshitiz sharma,India,20,all,,
+243,244,shubham singh,India,20,all,,
+244,245,shashank singh,India,20,all,,
+245,246,milind tandon,India,20,all,,
+246,247,ravi bopara,England,50,all,,
+247,248,george linde,South Africa,50,all,0,0
+248,249,kyle mayers,West Indies,50,all,,
+249,250,daryl mitchell,New Zealand,50,all,,
+250,251,colin munro,New Zealand,50,all,,
+251,252,dwaine pretorius,South Africa,50,all,,
+252,253,romario shepherd,West Indies,50,all,,
+253,254,sandeep bavanaka,India,20,all,,
+254,255,chaitanya bishnoi,India,20,all,0,0
+255,256,arun chaprana,India,20,all,,
+256,257,yudhvir charak,India,20,all,20,5
+257,258,ajay dev goud,India,20,all,0,0
+258,259,umran malik,India,20,all,,
+259,260,ravi teja telukupalli,India,20,all,,
+260,261,tanay thyagarajan,India,20,all,,
+261,262,n tilak varma,India,20,all,,
+262,263,k bhagath varma,India,20,all,20,1
+263,264,stuart binny,India,50,all,,
+264,265,hilton cartwright,Australia,75,all,,
+265,266,james faulkner,Australia,75,all,,
+266,267,akeal hosein,West Indies,50,all,,
+267,268,parvez rasool,India,50,all,,
+268,269,david wiese,South Africa,50,all,,
+269,270,jack wildermuth,Australia,50,all,0,0
+270,271,arshdeep brar,India,20,all,,
+271,272,digvijay deshmukh,India,20,all,,
+272,273,aakarshit gomel,India,20,all,,
+273,274,arjit gupta,India,20,all,,
+274,275,shubhang hegde,India,20,all,,
+275,276,anirudha joshi,India,20,all,,
+276,277,azim kazi,India,20,all,,
+277,278,rahul singh,India,20,all,,
+278,279,ajay t,India,20,all,,
+279,280,harsh tyagi,India,20,all,0,0
+280,281,nachiket bhute,India,20,all,,
+281,282,josh clarkson,New Zealand,20,all,,
+282,283,gerald coetzee,South Africa,20,all,0,0
+283,284,tim david,Australia,20,all,0,0
+284,285,deeparaj gaonkar,India,20,all,,
+285,286,aaron hardie,Australia,20,all,,
+286,287,marco jansen,South Africa,20,all,20,5
+287,288,nathan mcandrew,Australia,20,all,,
+288,289,m mohammed,India,20,all,,
+289,290,govinda poddar,India,20,all,,
+290,291,pratyush singh,India,20,all,0,0
+291,292,jacques snyman,South Africa,20,all,,
+292,1605,vaibhav pipara,Australia,500,all,900,6
+293,293,mushfiqur rahim,Bangladesh,100,wkt,,
+294,294,saurabh kumar,India,20,all,20,3
