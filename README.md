@@ -1,6 +1,6 @@
 # Auctionator---Live-Auction-Data-entry
 
-## 1) Creating the database
+## Creating the database
 
 Create a mysql database on any server of your choice\
 Then create 4 tables in it namely:\
